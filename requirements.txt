@@ -1,7 +1,7 @@
 Django>=1.6
 django-bootstrap-form>=3.1
 django_weekday_field>=0.1.4
-elasticsearch>=1.0.0
+elasticsearch<1.0.0
 python-social-auth>=0.1.26
 psycopg2>=2.5.3
 django-haystack>=2.1.0
